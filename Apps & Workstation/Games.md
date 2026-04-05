@@ -15,3 +15,10 @@ https://sober.vinegarhq.org/
 https://www.youtube.com/watch?v=SuiDuI1N03c  
 https://www.apkmirror.com/apk/roblox-corporation/roblox/
 https://flathub.org/en/apps/org.vinegarhq.Sober
+
+---
+
+КАК УСТАНОВИТЬ GENSHIN IMPACT на UBUNTU 23.04 | HOW TO INSTALL GENSHIN IMPACT ON LINUX DISTRUBITION
+Канал: [Виктор Гагарин](https://www.youtube.com/@val3klol)
+---> https://www.youtube.com/watch?v=LR2jTqk1Pv0  
+---> https://github.com/an-anime-team/an-anime-game-launcher  
