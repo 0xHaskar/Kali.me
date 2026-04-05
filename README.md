@@ -10,6 +10,17 @@
 
 Многие считают Kali Linux либо «игрушкой для детей», либо забагованной системой, которую можно держать только на виртуалке.
 
-1. system-hardening
-2. privacy
-3. troubleshooting
+### 📚 Обязательно к прочтению
+* 📖 **[Official Kali Linux FAQ](https://www.kali.org/faq/)**
+* 📘 **[Official Kali Linux Documentation](https://www.kali.org/docs/)**
+
+### 📂 Категории:
+1. 🛡️ **[System Hardening](./01-system-hardening)**
+2. 👁️ **[Privacy & Security](./02-privacy)**
+3. 🎬 **[Apps & Workstation](./03-apps)**
+4. 🔧 **[Troubleshooting & Tweaks](./04-troubleshooting)**
+
+
+<p align="center">
+  Ломайте мифы, а не свою систему. xD
+</p>
