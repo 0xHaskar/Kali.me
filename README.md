@@ -19,6 +19,7 @@
 2. 👁️ **[Privacy & Security](./02-privacy)**
 3. 🎬 **[Apps & Workstation](./03-apps)**
 4. 🔧 **[Troubleshooting & Tweaks](./04-troubleshooting)**
+5. 🎨 **[Kali Ricing](./05-kali-ricing)**
 
 
 <p align="center">
