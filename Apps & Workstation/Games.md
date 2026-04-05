@@ -13,4 +13,5 @@ https://linux-gaming.ru/
 https://github.com/vinegarhq/sober  
 https://sober.vinegarhq.org/  
 https://www.youtube.com/watch?v=SuiDuI1N03c  
-https://www.apkmirror.com/apk/roblox-corporation/roblox/  
+https://www.apkmirror.com/apk/roblox-corporation/roblox/
+https://flathub.org/en/apps/org.vinegarhq.Sober
