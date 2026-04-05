@@ -15,7 +15,7 @@
 * 📘 **[Official Kali Linux Documentation](https://www.kali.org/docs/)**
 
 ### 📂 Категории:
-1. 🛡️ **[System Hardening](./01-system-hardening)**
+1. 🛡️ **[System Hardening](/System%20Hardening/README.md)**
 2. 👁️ **[Privacy & Security](./02-privacy)**
 3. 🎬 **[Apps & Workstation](./03-apps)**
 4. 🔧 **[Troubleshooting](./04-troubleshooting)**
