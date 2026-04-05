@@ -12,4 +12,4 @@
 
 1. system-hardening
 2. privacy
-3. fixes
+3. troubleshooting
