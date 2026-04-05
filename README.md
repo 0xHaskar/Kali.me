@@ -18,7 +18,7 @@
 1. 🛡️ **[System Hardening](./01-system-hardening)**
 2. 👁️ **[Privacy & Security](./02-privacy)**
 3. 🎬 **[Apps & Workstation](./03-apps)**
-4. 🔧 **[Troubleshooting & Tweaks](./04-troubleshooting)**
+4. 🔧 **[Troubleshooting](./04-troubleshooting)**
 5. 🎨 **[Kali Ricing](./05-kali-ricing)**
 
 
