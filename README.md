@@ -20,8 +20,3 @@
 3. 🎬 **[Apps & Workstation](./03-apps)**
 4. 🔧 **[Troubleshooting](./04-troubleshooting)**
 5. 🎨 **[Kali Ricing](./05-kali-ricing)**
-
-
-<p align="center">
-  Ломайте мифы, а не свою систему. xD
-</p>
