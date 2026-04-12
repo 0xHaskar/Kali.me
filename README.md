@@ -17,6 +17,6 @@
 ### 📂 Категории:
 1. 🛡️ **[System Hardening](/System%20Hardening/README.md)**
 2. 👁️ **[Privacy & Security](/Privacy%20%26%20Security)**
-3. 🎬 **[Apps & Workstation](./03-apps)**
+3. 🎬 **[Apps & Workstation](/Apps%20%26%20Workstation/)**
 4. 🔧 **[Troubleshooting](./04-troubleshooting)**
 5. 🎨 **[Kali Ricing](./05-kali-ricing)**
