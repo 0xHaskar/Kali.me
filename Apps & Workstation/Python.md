@@ -1,7 +1,9 @@
 <p align="center">
   <img width="600" height="300" src="https://habrastorage.org/getpro/habr/upload_files/6b4/64a/c27/6b464ac275204276853de85acff33009.gif">
 </p>
+
 **Быстрый старт в мир Python окружений с uv:**
+
 [uv](https://github.com/astral-sh/uv) — довольно быстрый пакетный менеджер и менеджер виртуальных окружений для Python, написанный на Rust. По заявлению разработчиков, uv способен заменить такие Python инструменты, как pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv и другие.
 
 Установки пакета из pypi.org:
