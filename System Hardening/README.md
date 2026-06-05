@@ -23,6 +23,14 @@ sudo apt install kali-tweaks
 
 ---
 
+Official Kali Linux Mirrors  
+---> https://www.kali.org/docs/community/kali-linux-mirrors/  
+---> https://http.kali.org/README?mirrorstats  
+
+
+
+---
+
 Пароли по умолчанию в Kali Linux, прочитать: 
 > https://www.kali.org/docs/introduction/default-credentials/
 
