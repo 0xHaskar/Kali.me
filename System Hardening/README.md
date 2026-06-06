@@ -25,6 +25,7 @@ sudo apt install kali-tweaks
 
 Official Kali Linux Mirrors  
 ---> https://www.kali.org/docs/community/kali-linux-mirrors/  
+---> http://http.kali.org/README?mirrorlist  
 ---> https://http.kali.org/README?mirrorstats  
 
 
