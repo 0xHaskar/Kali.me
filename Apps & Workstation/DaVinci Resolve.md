@@ -1,21 +1,20 @@
 <p align="center">
-  <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png">
+  <img width="1000" height="250" src="https://www.danieltufvesson.com/images/header_makeresolvedeb.png">
 </p>
-**DaVinci Resolve:**
-How to install DaVinci Resolve 19 on latest kali Linux and ubuntu 24.04? 
-(На всякий случай, но у меня не работает.)
-https://www.youtube.com/watch?v=TNPgNGLlCes
-канал: TechnoVerse
 
-DaVinci Resolve in a Box (Работает в моем случае, рекомендую этот вариант.)
-https://www.youtube.com/watch?v=Oo0QyPBAlAQ
-канал: [Akzel](https://www.youtube.com/@PMK94)
+**DaVinci Resolve:**  
+
+1. DaVinci Resolve in a Box  
+https://www.youtube.com/watch?v=Oo0QyPBAlAQ  
+канал: [Akzel](https://www.youtube.com/@PMK94)  
 ---> https://github.com/zelikos/davincibox
+
+2. MakeResolveDeb  
+---> https://www.danieltufvesson.com/makeresolvedeb
 
 ---
 
-Этот скрипт использует ffmpeg для преобразования файлов форматов MKV и MP4 в MOV для программы видеомонтажа DaVinci Resolve
----> https://gist.github.com/gsilano/939c696e4fd72b177d8b21ef183c1c83
+Этот скрипт использует ffmpeg для преобразования файлов форматов MKV и MP4 в MOV для программы видеомонтажа DaVinci Resolve  
 ```bash
 sudo apt-get update
 sudo apt-get install ffmpeg
@@ -33,11 +32,11 @@ From MOV to MP4:
 ```bash
 ffmpeg -i input.mov -qscale 0 output.mp4
 ```
+---> https://gist.github.com/gsilano/939c696e4fd72b177d8b21ef183c1c83  
 ---> https://stackoverflow.com/questions/12026381/ffmpeg-converting-mov-files-to-mp4
 
 ---
 
-**Скрипты от Лолечки:**
 ### #1
 Создай скрипт и назови его как тебе удобно, например, `w1.sh`
 ```bash
