@@ -10,7 +10,7 @@
 
 Многие считают Kali Linux либо «игрушкой для детей», либо забагованной системой, которую можно держать только на виртуалке.
 
-### 📚 Обязательно к прочтению
+### 📚 Обязательно к прочтению:
 * 📖 **[Official Kali Linux FAQ](https://www.kali.org/faq/)**
 * 📘 **[Official Kali Linux Documentation](https://www.kali.org/docs/)**
 
