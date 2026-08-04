@@ -4,8 +4,8 @@
 </div>
 
 ### Игры на Линукс? Легко!
-https://github.com/Castro-Fidel/PortWINE/blob/master/README-RU.md  
-https://linux-gaming.ru/
+https://linux-gaming.ru/  
+https://git.linux-gaming.ru/Linux-Gaming/PortProtonQt/releases
 
 ---
 
