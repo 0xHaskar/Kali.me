@@ -9,8 +9,7 @@ https://git.linux-gaming.ru/Linux-Gaming/PortProtonQt/releases
 
 ---
 
-### <img width="48" src="https://raw.githubusercontent.com/vinegarhq/sober/af9fd19ebf25c9adc7444283e6dfeabb051ab423/sober.svg">   Sober
-### Roblox
+### <img width="48" src="https://raw.githubusercontent.com/vinegarhq/sober/af9fd19ebf25c9adc7444283e6dfeabb051ab423/sober.svg">   Sober (Roblox)
 https://github.com/vinegarhq/sober  
 https://sober.vinegarhq.org/  
 https://www.youtube.com/watch?v=SuiDuI1N03c  
