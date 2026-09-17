@@ -19,4 +19,4 @@
 2. 👁️ **[Privacy & Security](/Privacy%20%26%20Security)**
 3. 🎬 **[Apps & Workstation](/Apps%20%26%20Workstation/)**
 4. 🔧 **[Troubleshooting](./04-troubleshooting)**
-5. 🎨 **[Kali Ricing](./05-kali-ricing)**
+5. 🎨 **[Kali Ricing](./Ricing)**
