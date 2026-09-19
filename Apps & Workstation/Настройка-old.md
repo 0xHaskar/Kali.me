@@ -5,17 +5,7 @@
 Flameshot (программа для создания скриншотов)
 sudo apt install flameshot
 
----
 
-man название_программы - узнать информацию об проге
-
----
-
-<p align="center">
-  <img width="200" height="200" src="https://raw.githubusercontent.com/jeffshee/hidamari/resource/hidamari.svg">
-</p>
-
-видео обои --> https://github.com/jeffshee/hidamari
 
 ---
 
