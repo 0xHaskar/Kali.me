@@ -28,6 +28,6 @@
   ---> https://devmems.ru/library/postgresql-parol-po-umolchaniyu-polzovatelya-postgres  
 
 ### 🌐 Сетевые инструменты
-* **Goshs** — продвинутый и удобный HTTP/HTTPS сервер на Go, заменяющий стандартный `python3 -m http.server`.
----> https://www.kali.org/tools/goshs/
+* **Goshs** — продвинутый и удобный HTTP/HTTPS сервер на Go, заменяющий стандартный `python3 -m http.server`.  
+---> https://www.kali.org/tools/goshs/  
 ---> https://github.com/goshs-labs/goshs
