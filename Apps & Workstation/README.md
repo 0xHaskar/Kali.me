@@ -26,3 +26,8 @@
   ---> https://www.pgadmin.org/download/pgadmin-4-python/  
   ---> https://zalinux.ru/?p=6695  
   ---> https://devmems.ru/library/postgresql-parol-po-umolchaniyu-polzovatelya-postgres  
+
+### 🌐 Сетевые инструменты
+* **Goshs** — продвинутый и удобный HTTP/HTTPS сервер на Go, заменяющий стандартный `python3 -m http.server`.
+---> https://www.kali.org/tools/goshs/
+---> https://github.com/goshs-labs/goshs
