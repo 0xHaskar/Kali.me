@@ -4,7 +4,7 @@
 
 **ClamAV** — классический open-source антивирусный движок, используемый для обнаружения вредоносных программ, вирусов и троянов.  
 
----> https://habr.com/ru/articles/654541/  
----> https://github.com/Cisco-Talos/clamav  
----> https://www.kali.org/tools/clamav/  
 ---> https://www.clamav.net/  
+---> https://www.kali.org/tools/clamav/  
+---> https://github.com/Cisco-Talos/clamav  
+---> https://habr.com/ru/articles/654541/  
