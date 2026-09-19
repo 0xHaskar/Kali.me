@@ -1,43 +1,5 @@
 
 
-
-
-### Изменение ключей SSH по умолчанию
-Secure Shell или SSH — это сетевой протокол. Он используется для безопасного взаимодействия с компьютерами. SSH дает возможность аутентифицироваться без ввода паролей.
-
-Есть два типа ключей SSH. Один публичный, а другой частный. Необходимо изменить наши публичные SSH-ключи, потому что у всех дистрибутивов они одинаковые, а генерация частных ключей будет гарантировать, что только аутентифицированные пользователи могут получить доступ.
-Ключи SSH по умолчанию расположены в каталоге `/etc/ssh`. Мы не будем удалять старые ключи, а просто перенесем в другое безопасное место. Для этого используем команды:
-
-```bash
-cd /etc/ssh
-```
-
-```bash
-sudo mkdir old_keys
-```
-
-```bash
-sudo mv ssh_host_* old_keys
-```
-Теперь все наши старые ключи SSH перемещены в каталог с именем `old_keys`.
-![[Pasted image 20240412171726.png]]
-Теперь создаем новые ключи:
-```bash
-sudo dpkg-reconfigure openssh-server
-```
-
-Команда создаст новые ключи SSH:
-![[Pasted image 20240412171825.png]]
-Если мы столкнемся с какой-то проблемой, можно будет использовать резервные копии ключей SSH.
-
----
-### Смена языка Kali Linux.
-Открываем терминал и пишем
-`dpkg-reconfigure locales`
-Выбираем ru_RU.UTF8 и нажимаем ОK.
-Теперь пишем в терминале `locale-gen` и перезагружаем систему.
-Все, теперь система на Русском языке.
-
 ---
 
 Flameshot (программа для создания скриншотов)
@@ -90,33 +52,6 @@ $ source pgadmin4/bin/activate
 ---> https://github.com/Cisco-Talos/clamav
 
 ---
-### OBS-Studio убрали из реп Kali Linux
-Установка теперь такая:
-sudo apt update
-Устанавливаем Flatpak: sudo apt install flatpak
-Возможно, нужно будет установить репозиторий flathub (есть на странице сайта)
-На flathub странице OBS-Studio, выполняем команды для установки
-
----
-### Если сломалась kali-undercover
-Thread: Can't get out of kali undercover
-https://forums.kali.org/showthread.php?46010-Can-t-get-out-of-kali-undercover&p=106359
-sudo apt reinstall kali-undercover
-sudo apt reinstall xfce4
-Перезагружаемся и выполняем команду: kali-undercover
-Радуемся!
-
----
-
-## Kali с функцией автоматического создания снимков!
-Упоминание:
-https://www.kali.org/blog/kali-linux-2022-2-release/
-
-Тут можно найти способы установки: 
-https://www.kali.org/docs/installation/
-там находится --> https://www.kali.org/docs/installation/btrfs/
-
----
 
 ## Goshs — удобный HTTP-сервер на Kali Linux
 <p align="center">
@@ -126,43 +61,14 @@ https://www.kali.org/docs/installation/
 ---> https://spy-soft.net/goshs-http-server-kali-linux/
 ---> https://github.com/patrickhener/goshs
 
----
 
-
-
-
----
-
-> [!warning]
-> Если вы столкнулись с блокировкой или проблемами с соединением к HackTheBox, то это может вам помочь.
-> Если у вас возникают ошибки с `dig`, типа:  
-> `dig AXFR inlanefreight.htb @10.129.210.39`,  
-> то добавьте параметр `-b`:  
-> `dig AXFR inlanefreight.htb @10.129.210.39 -b ip_htb_vpn`.
-
-
-
----
-
-<p align="center">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/searxng/searxng/master/client/simple/src/brand/searxng.svg">
-</p>
-SearXNG — это бесплатная интернет-метапоисковая система, которая агрегирует результаты из различных поисковых сервисов и баз данных. Пользователи не отслеживаются и не профилируются.
----> https://github.com/searxng/searxng
-
----
 
 <p align="center">
   <img width="600" height="300" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
 </p>
 VScode themes:
-1. https://github.com/doki-theme/doki-theme-vscode.git
 2. https://github.com/silofy/hackthebox.git
 
-
-
-
----
 
 
 <p align="center">
