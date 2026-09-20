@@ -7,6 +7,7 @@
   ```bash
   sudo apt install flameshot
   ```
+  ---> https://flameshot.org/  
   ---> https://pkg.kali.org/pkg/flameshot
 
 * **GPU Screen Recorder** — сверхбыстрая программа для записи экрана с минимальной нагрузкой на систему. Работает через графический процессор (аналог NVIDIA Shadowplay в Windows). Поддерживает X11/Wayland и видеокарты AMD, Intel, NVIDIA.  
