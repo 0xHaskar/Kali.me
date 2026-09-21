@@ -182,4 +182,5 @@ done
 2. FUSION для НОВИЧКОВ! ПОЗНАЁМ НА ПРАКТИКЕ!  
 ---> https://youtube.com/watch?v=liFSyf4RigE  
 
----> Канал: https://youtube.com/@Anton-Stepantsov  
+Канал:  
+---> https://youtube.com/@Anton-Stepantsov  
