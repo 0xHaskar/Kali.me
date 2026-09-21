@@ -18,9 +18,18 @@ https://flathub.org/en/apps/org.vinegarhq.Sober
 
 ---
 
+### GENSHIN IMPACT
 <div align="center">
   <img src="https://raw.githubusercontent.com/an-anime-team/an-anime-game-launcher/main/repository/main-modern-dark.png" width="450">
 </div>
-
-### GENSHIN IMPACT
 ---> https://github.com/an-anime-team/an-anime-game-launcher  
+
+### Minecraft
+<p align="center">
+    <img alt="Logo" width="100" src="https://github.com/Voxelum/x-minecraft-launcher/blob/master/xmcl-electron-app/icons/dark@256x256.png">
+  </a>
+</p>
+
+XMCL - это современный лаунчер для Minecraft, который позволяет управлять огромными ресурсами, такими как модпаки, текстурпаки, моды, шейдеры. Ещё он имеет интеграцию с Forge, Fabric, Quilt, CurseForge и Modrinth.  
+---> https://www.xmcl.app/  
+---> https://github.com/voxelum/x-minecraft-launcher
