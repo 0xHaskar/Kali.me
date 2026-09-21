@@ -39,7 +39,7 @@ https://flathub.org/en/apps/org.vinegarhq.Sober
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CCBlueX/LiquidCloud/master/LiquidBounce/liquidbounceLogo.sv" width="200">
+  <img src="https://raw.githubusercontent.com/CCBlueX/LiquidCloud/master/LiquidBounce/liquidbounceLogo.svg" width="200">
 </div>
 
 **LiquidBounce** — это бесплатный клиент с открытым исходным кодом для Minecraft, который работает на базе Fabric API и использует инъекции на основе миксинов (mixin-based injection).  
