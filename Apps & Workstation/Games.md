@@ -24,12 +24,24 @@ https://flathub.org/en/apps/org.vinegarhq.Sober
 </div>
 ---> https://github.com/an-anime-team/an-anime-game-launcher  
 
+---
+
 ### Minecraft
 <p align="center">
     <img alt="Logo" width="100" src="https://github.com/Voxelum/x-minecraft-launcher/blob/master/xmcl-electron-app/icons/dark@256x256.png">
   </a>
 </p>
 
-XMCL - это современный лаунчер для Minecraft, который позволяет управлять огромными ресурсами, такими как модпаки, текстурпаки, моды, шейдеры. Ещё он имеет интеграцию с Forge, Fabric, Quilt, CurseForge и Modrinth.  
+**XMCL** — это современный лаунчер для Minecraft, который позволяет управлять огромными ресурсами, такими как модпаки, текстурпаки, моды, шейдеры. Ещё он имеет интеграцию с Forge, Fabric, Quilt, CurseForge и Modrinth.  
 ---> https://www.xmcl.app/  
 ---> https://github.com/voxelum/x-minecraft-launcher
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CCBlueX/LiquidCloud/master/LiquidBounce/liquidbounceLogo.sv" width="200">
+</div>
+
+**LiquidBounce** — это бесплатный клиент с открытым исходным кодом для Minecraft, который работает на базе Fabric API и использует инъекции на основе миксинов (mixin-based injection).  
+---> https://liquidbounce.net/   
+---> https://github.com/CCBlueX/LiquidBounce  
