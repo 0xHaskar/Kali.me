@@ -22,3 +22,6 @@
 9. https://cookie-editor.com/  
     https://addons.mozilla.org/ru/firefox/addon/cookie-editor/  
 10. https://github.com/ilyhalight/voice-over-translation
+
+### ⚙ Расширения рабочего стола (Gnome Extensions)
+* **[Dash to Panel](https://github.com/home-sweet-gnome/dash-to-panel)** — панель задач со значками для GNOME Shell. Это расширение переносит панель Dash на основную панель GNOME, объединяя средства запуска приложений и системный лоток в единую панель — подобно тому, как это реализовано в KDE Plasma и Windows 7 (и более поздних версиях). Отдельный док для быстрого доступа к запущенным и избранным приложениям больше не требуется.
