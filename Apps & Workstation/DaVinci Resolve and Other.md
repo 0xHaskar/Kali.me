@@ -37,6 +37,30 @@ ffmpeg -i input.mov -qscale 0 output.mp4
 
 ---
 
+
+### 📹 OBS Studio
+<p align="center">
+  <img width="500" height="300" src="https://obsproject.com/assets/images/features-new/hero_32_1_1.png">
+</p>
+
+Бесплатное программное обеспечение с открытым исходным кодом для записи видео и прямых трансляций.  
+Скачайте программу и начните вести трансляции быстро и легко — на Windows, Mac или Linux.  
+---> https://obsproject.com/  
+---> https://pkg.kali.org/pkg/obs-studio  
+
+---
+
+### 🎙️ Audacity
+<p align="center">
+  <img width="500" height="300" src="https://www.audacityteam.org/_astro/hero-surface-studio-darkened.Bg6vZ4zE_Z1E7Af.webp">
+</p>
+
+Самое популярное в мире приложение для записи и редактирования аудио.  
+---> https://www.audacityteam.org/  
+---> https://pkg.kali.org/pkg/audacity  
+
+---
+
 ### #1
 Создай скрипт и назови его как тебе удобно, например, `w1.sh`
 ```bash
