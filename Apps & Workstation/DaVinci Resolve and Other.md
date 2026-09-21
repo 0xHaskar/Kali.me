@@ -172,3 +172,14 @@ do
 done
 ```
 Запуск `./w1.sh файл*`
+
+---
+
+### 🪄 Fusion  
+1. КАК НОВИЧКУ ПОНЯТЬ FUSION? Гайд в DaVinci Resolve  
+---> https://youtube.com/watch?v=TT8CB5NgQtg  
+
+2. FUSION для НОВИЧКОВ! ПОЗНАЁМ НА ПРАКТИКЕ!  
+---> https://youtube.com/watch?v=liFSyf4RigE  
+
+---> Канал: https://youtube.com/@Anton-Stepantsov  
